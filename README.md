@@ -1,4 +1,4 @@
-# A professional lightweight accounting system for tracking balances and transactions.
+# A professional lightweight accounting system for tracking balances and transactions.0
 import pandas as pd
 from datetime import datetime
 
