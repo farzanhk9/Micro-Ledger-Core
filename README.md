@@ -1,5 +1,5 @@
 # A professional lightweight accounting system for tracking balances and transactions.
-import pandas as pd11
+import pandas as pd
 from datetime import datetime
 
 class AccountingSystem:
